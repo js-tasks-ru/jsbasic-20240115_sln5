@@ -1,0 +1,449 @@
+[33mcommit 7e5350b067a994d0543cb31424e78778ff3cf54f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Lyubov Surova <sln5@yandex.ru>
+Date:   Sun Jan 21 23:36:02 2024 +0300
+
+    1-task
+
+[33mcommit 133104d82f9cb380cd8ddc84b9e72608c986dc1d[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 21 22:53:35 2024 +0300
+
+    Added task Первая задача
+
+[33mcommit 0619d9c881907fe0621b64b6d9f0fc68c43aa93c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:52 2024 +0300
+
+    Initial setup: added .github/workflows/tests.yaml
+
+[33mcommit 4a58820c705365a3d72be4acb5aa71c6bce4ce7a[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:51 2024 +0300
+
+    Initial setup: added assets/styles/common.css
+
+[33mcommit 44ee3e3b6d7bf6e3902166a85c1e5af4d378c67f[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:50 2024 +0300
+
+    Initial setup: added assets/styles/button.css
+
+[33mcommit 8ceb2b12eeb9fce941728ed5981f61cc93b9ff08[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:49 2024 +0300
+
+    Initial setup: added assets/styles/404.css
+
+[33mcommit e4afdd4a9cde9b16e8317f01a7e29228deff5490[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:48 2024 +0300
+
+    Initial setup: added assets/lib/escape-html.js
+
+[33mcommit b24bca34146b6e2ae00f9a306f338aefc95f69ec[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:47 2024 +0300
+
+    Initial setup: added assets/lib/create-element.js
+
+[33mcommit 74deb57cfd60f0b1da80aa308ac65389934021a3[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:46 2024 +0300
+
+    Initial setup: added assets/images/products/witte_rijst.png
+
+[33mcommit 30014252a31d9917ea4b297a40b4da236f27f339[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:45 2024 +0300
+
+    Initial setup: added assets/images/products/tom_yam.png
+
+[33mcommit 2b6ca948c36f669878b1e20393a867375c8a36e2[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:44 2024 +0300
+
+    Initial setup: added assets/images/products/tom_kha.png
+
+[33mcommit 0dd5c1d42db226a043e6c3164faad0ec6ae6b07f[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:43 2024 +0300
+
+    Initial setup: added assets/images/products/tofu_cashew.png
+
+[33mcommit 52fed0d052b09b4e4bb28cdb69ec48f2326d6d9e[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:42 2024 +0300
+
+    Initial setup: added assets/images/products/sweet_n_sour.png
+
+[33mcommit bce50fc05d15f2edf64c8bd43b2fd08413bfb87f[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:41 2024 +0300
+
+    Initial setup: added assets/images/products/stir_fried_vegetables.png
+
+[33mcommit a1f78a93fe76b81ab545dee7e3d334619c5ad374[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:40 2024 +0300
+
+    Initial setup: added assets/images/products/som_tam_papaya_salad.png
+
+[33mcommit 17734babf75745b922ec86dbd2f2361a68d7e551[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:39 2024 +0300
+
+    Initial setup: added assets/images/products/satesaus.png
+
+[33mcommit 78be1b23692788a5d6fe8b05969beaffc12f1935[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:38 2024 +0300
+
+    Initial setup: added assets/images/products/sate.png
+
+[33mcommit db391d06a3972d1c35c12f641fbe6b5ec672a188[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:37 2024 +0300
+
+    Initial setup: added assets/images/products/red_curry.png
+
+[33mcommit b35ae2b005775af8c629a38c517f981d51dd3e1f[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:36 2024 +0300
+
+    Initial setup: added assets/images/products/red_curry_vega.png
+
+[33mcommit e54f867c4f5ecc1e481791f37685961ea2b133e8[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:35 2024 +0300
+
+    Initial setup: added assets/images/products/prik_nam_pla.png
+
+[33mcommit 5a17160e7a10ebbc738b40685a8f8cd5d6543b31[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:34 2024 +0300
+
+    Initial setup: added assets/images/products/mini_vega_springrolls.png
+
+[33mcommit 2ca2a859045a2301a4fec70409182f7f6f9c531d[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:33 2024 +0300
+
+    Initial setup: added assets/images/products/laab_kai_chicken_salad.png
+
+[33mcommit 5c080efa5b3e8011a6367a34287f4a03f53a49b0[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:32 2024 +0300
+
+    Initial setup: added assets/images/products/kroepoek.png
+
+[33mcommit f659959995d5f639309d9588d996e8f0e7475319[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:31 2024 +0300
+
+    Initial setup: added assets/images/products/krapau_vega.png
+
+[33mcommit 5f6d18c6b57963ea7a167af375cf1b4be5145155[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:30 2024 +0300
+
+    Initial setup: added assets/images/products/koong_hom_pha.png
+
+[33mcommit 89f434f5c08f3d67ce508e15d9b4dbbfef919ac7[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:29 2024 +0300
+
+    Initial setup: added assets/images/products/king_salad.png
+
+[33mcommit 2b8f5e44cd906be2bc4569c596296c974acdeb7b[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:28 2024 +0300
+
+    Initial setup: added assets/images/products/kai_see_ew.png
+
+[33mcommit cbc09f1a997b6932390c42ac4272576877e029ed[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:27 2024 +0300
+
+    Initial setup: added assets/images/products/green_curry.png
+
+[33mcommit 796976bdea4e1c1abf2f29db9a33697c383ed801[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:26 2024 +0300
+
+    Initial setup: added assets/images/products/fried_rice.png
+
+[33mcommit 9b0b5819869fac259ed47509f7bbe07d629a690c[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:25 2024 +0300
+
+    Initial setup: added assets/images/products/fried_noodles.png
+
+[33mcommit ba924b2eaf7dc09e5b210f98e89758721ad63ea0[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:24 2024 +0300
+
+    Initial setup: added assets/images/products/fish_cakes.png
+
+[33mcommit d182f26b7ea45b6d23cc7e5c60c25a68e3deb3a4[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:23 2024 +0300
+
+    Initial setup: added assets/images/products/chu_chee.png
+
+[33mcommit 229214f6e5f6c2f19c429844461a8a7f33db1182[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:22 2024 +0300
+
+    Initial setup: added assets/images/products/chicken_loempias.png
+
+[33mcommit 9f4dc42e87ea0aae6a1f9f7eceff2d50343d7067[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:21 2024 +0300
+
+    Initial setup: added assets/images/products/chicken_cashew.png
+
+[33mcommit 9b6af9a3824233febdd4720abc64ec769fe9bbd3[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:20 2024 +0300
+
+    Initial setup: added assets/images/products/beef_massaman.png
+
+[33mcommit d9fbf24a814760dbb3819ef5e8ed42b796da7936[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:19 2024 +0300
+
+    Initial setup: added assets/images/products/500ml_topped_salted_caramel_brownie.png
+
+[33mcommit 332ed110b271bee028f6ed54834e28eecbc42d18[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:18 2024 +0300
+
+    Initial setup: added assets/images/products/500ml_strawberry_cheesecake.png
+
+[33mcommit 8c9419a00f164d654cac99065ecccb17d46f37f9[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:17 2024 +0300
+
+    Initial setup: added assets/images/products/500ml_non_dairy_chunky_monkey.png
+
+[33mcommit eaf45959fc3aec07e08d7dd572e6fab665045838[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:16 2024 +0300
+
+    Initial setup: added assets/images/products/500ml_cookie_dough.png
+
+[33mcommit cc3d1e751b9f2d3a8c3a36685af1357c62f6734f[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:15 2024 +0300
+
+    Initial setup: added assets/images/products/500ml_chocolate_fudge_brownie.png
+
+[33mcommit 3327be44df390a434bed69ae7f8d850ca45fd123[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:14 2024 +0300
+
+    Initial setup: added assets/images/icons/square-plus-icon.svg
+
+[33mcommit e32eca6d107d49ffcb8d278851d2570a75a4a442[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:13 2024 +0300
+
+    Initial setup: added assets/images/icons/square-minus-icon.svg
+
+[33mcommit 176a2a135925e4d1c62717bf941f35813793327c[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:12 2024 +0300
+
+    Initial setup: added assets/images/icons/plus-icon.svg
+
+[33mcommit 31e0f4cfebbbd081f5208f93133835c0b21e2fe0[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:11 2024 +0300
+
+    Initial setup: added assets/images/icons/pepper-icon.svg
+
+[33mcommit 3de6a53ecaf42c11ce434357c7e63ee6fbc0919a[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:10 2024 +0300
+
+    Initial setup: added assets/images/icons/loader-icon.svg
+
+[33mcommit dc2cb10e9549fdf806902cd57932d647cfbb07c7[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:09 2024 +0300
+
+    Initial setup: added assets/images/icons/loader-icon-sm.svg
+
+[33mcommit d1d95d6b0dc2896878af94a602bfc96ef3855d5b[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:08 2024 +0300
+
+    Initial setup: added assets/images/icons/cross-icon.svg
+
+[33mcommit 64571063834bc5d833d632db6fcbd37d157ee794[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:07 2024 +0300
+
+    Initial setup: added assets/images/icons/check-icon.svg
+
+[33mcommit 58a1990134b79e2dd629a051741e7c1605ec0881[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:06 2024 +0300
+
+    Initial setup: added assets/images/icons/cart-icon.svg
+
+[33mcommit 2a1fa6e672727cf49bbb2837dec6dae79a3ea5eb[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:05 2024 +0300
+
+    Initial setup: added assets/images/icons/angle-sm-icon.svg
+
+[33mcommit 3c855cff8cdc9e37db21b793b97b79d3f0faa2c1[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:04 2024 +0300
+
+    Initial setup: added assets/images/icons/angle-left-icon.svg
+
+[33mcommit 154e6932a970a55443cedab241a9dea859f0547f[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:03 2024 +0300
+
+    Initial setup: added assets/images/icons/angle-icon.svg
+
+[33mcommit 2d76de18edf9ce1146e420990caa378006beead9[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:02 2024 +0300
+
+    Initial setup: added assets/images/delivery.gif
+
+[33mcommit 74d22565086cc8229c234ffdb225e144c74b0cf2[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:01 2024 +0300
+
+    Initial setup: added assets/images/carousel/red_curry_vega.png
+
+[33mcommit 7eecc3649dba50f58a6c637aefd3b476cc57da57[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:29:00 2024 +0300
+
+    Initial setup: added assets/images/carousel/penang_shrimp.png
+
+[33mcommit 073aa7bb6bd5dc8aa0798258319c18fd1684d0cc[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:59 2024 +0300
+
+    Initial setup: added assets/images/carousel/chicken_loempias.png
+
+[33mcommit 705f554aaf55754ab4c3738ed63a860a31051a79[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:58 2024 +0300
+
+    Initial setup: added assets/images/carousel/chicken_cashew.png
+
+[33mcommit 906adff30da284e75d8c96642bd08c34a3e2cd64[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:57 2024 +0300
+
+    Initial setup: added assets/favicon/favicon.ico
+
+[33mcommit d0e54e0de15b727cca4151a6821c165538a86716[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:56 2024 +0300
+
+    Initial setup: added assets/favicon/favicon-32x32.png
+
+[33mcommit b3588f6cd924f5457069e568ddf113474f17528d[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:55 2024 +0300
+
+    Initial setup: added assets/favicon/favicon-16x16.png
+
+[33mcommit 48f851b7fcb0e94114c88c5dff36bc016ceadab9[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:54 2024 +0300
+
+    Initial setup: added assets/favicon/apple-touch-icon.png
+
+[33mcommit f40ac2aee065519883e3d08d4eaaed61aed57447[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:53 2024 +0300
+
+    Initial setup: added assets/favicon/android-chrome-512x512.png
+
+[33mcommit fc19e8b7c6250ee199a12ed3259aba5ad239cfde[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:52 2024 +0300
+
+    Initial setup: added assets/favicon/android-chrome-192x192.png
+
+[33mcommit 511762f9ef4bf4f3390e2ab4ceae9861629f0659[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:51 2024 +0300
+
+    Initial setup: added site.webmanifest
+
+[33mcommit 2dcfdd4dc8009c143d5ea124dd33d3984c045be9[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:50 2024 +0300
+
+    Initial setup: added README.md
+
+[33mcommit 2fcc6c7c5f71e786c4d0b2e0b22c56a9e1ba798d[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:49 2024 +0300
+
+    Initial setup: added package.json
+
+[33mcommit a6ec4b9e98b04d2a1eb906a7913643a9f8abaaa2[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:48 2024 +0300
+
+    Initial setup: added karma.conf.js
+
+[33mcommit ab6f06c90dd282054259bab3eba39dc8f4725bea[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:47 2024 +0300
+
+    Initial setup: added favicon.ico
+
+[33mcommit 1a8d3e868e02bee1cf7d47e6818a515b22e17187[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:46 2024 +0300
+
+    Initial setup: added config.yml
+
+[33mcommit 1656178d3fab80c9251a35a144bbca65a76c3de6[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:45 2024 +0300
+
+    Initial setup: added 404.html
+
+[33mcommit 49e2214daaa2638bd7e9b214f0a5369cd8bc4535[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:44 2024 +0300
+
+    Initial setup: added .npmrc
+
+[33mcommit 3de6b36e59173a8dca7cc5c279f5a7b4d4d4eed3[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:43 2024 +0300
+
+    Initial setup: added .npmignore
+
+[33mcommit d6dcfa926f2330d994f89a0d254689e4800b6d4e[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:42 2024 +0300
+
+    Initial setup: added .gitignore
+
+[33mcommit f42b2a5f49e79dfcdd74e408a3b11cfea4974d68[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:41 2024 +0300
+
+    Initial setup: added .eslintrc.js
+
+[33mcommit 404e37508423052cf0bd3ffe4a28cb1143677c7b[m
+Author: javascriptru <67475495+jsru-1@users.noreply.github.com>
+Date:   Sun Jan 14 21:28:40 2024 +0300
+
+    Initial setup: added .editorconfig
